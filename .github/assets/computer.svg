@@ -82,12 +82,19 @@
                     <g clip-path="url(#_clip4)">
                         <g id="Code">
                         </g>
-                        <g id="start_blink" style="opacity: 0">
-                                    <path d="M 74 48 L 75 48 L 75 42 L 74 42 Z" style="fill:#fefefe;"/>
+                        <g id="start_blink">
+                                    <path d="M74,48L75,48L75,42L74,42Z" fill="#506062">
+                                    <animate
+                                        attributeType="XML"
+                                        attributeName="fill"
+                                        values="#fefefe;#506062"
+                                        dur="0.4s"
+                                        repeatCount="5"/>
+                                    </path>
                         </g>
                         <g>
                             <path id="animated_text">
-                                <animate attributeName="d" from="m74,48 h0" to="m74,48 h200" dur="5s" begin="1s" repeatCount="1"/>
+                                <animate attributeName="d" from="m74,48 h0" to="m74,48 h200" dur="5s" begin="2s" repeatCount="1"/>
                             </path>
                             <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
                                 <textPath xlink:href="#animated_text">Welcome to my github profile.</textPath>
@@ -95,7 +102,7 @@
                         </g>
                         <g>
                             <path id="animated_text2">
-                                <animate attributeName="d" from="m74,48 h200" to="m74,48 h200" dur="1s" begin="6s" repeatCount="indefinite"/>
+                                <animate attributeName="d" from="m74,48 h200" to="m74,48 h200" dur="1s" begin="7s" repeatCount="indefinite"/>
                             </path>
                             <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
                                 <textPath xlink:href="#animated_text2">Welcome to my github profile.</textPath>
