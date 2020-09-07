@@ -64,7 +64,6 @@
                 <path id="keyboard1" d="M268.434,185.345L253.514,185.347L251.303,181.278L266.223,181.276L268.434,185.345Z" style="fill:#000000;fill-opacity:0.9;"/>
                 <path id="keyboard-return" d="M 269.955 185.462 L 269.955 185.462 L 267.564 180.95 L 279.847 180.977 L 283.763 185.46 L 283.755 185.46 Z" style="fill:#000000;fill-opacity:0.9;"/>
                 <path id="keyboard-delete" d="M 264.955 180.07 L 264.955 180.062 L 263.264 176.95 L 277.847 176.977 L 279.763 180.06 L 279.755 180.06 Z"/>
-                <!--<path id="keyboard-return" d="M270.064,180.07L264.955,180.062L263.264,176.95L277.847,176.977L279.763,180.06L279.755,180.06L283.054,185.343L272.992,185.358L270.064,180.07Z" style="fill:#000000;fill-opacity:0.9;"/>-->
             </g>
             <path id="Trackpad" d="M96.136,199.49L88.014,221.323L231.405,222L225.178,199.49L96.136,199.49Z" fill="#929292" stroke="#000" stroke-width="0.5" />
             <path id="BaseFront" d="M320.12,220.574L326.048,224.74L323.687,235.617L0,235.617L-5.255,221.437L0.628,220.574C0.628,220.574 -1.201,223.94 8.606,224.039C18.414,224.138 133.47,224.039 133.47,224.039L136.171,228.295L184.19,228.295L187.105,224.039L313.932,224.74C317.877,224.854 320.241,223.706 320.12,220.574Z" style="fill:#808080;"/>
@@ -85,15 +84,24 @@
                         </g>
                         <g id="start_blink" style="opacity: 0">
                                     <path d="M 74 48 L 75 48 L 75 42 L 74 42 Z" style="fill:#fefefe;"/>
-                            </g>
-                            <g>
-                                <path id="animated_text">
-                                    <animate attributeName="d" from="m74,48 h0" to="m74,48 h120" dur="2s" begin="0s" repeatCount="indefinite"/>
-                                </path>
-                                <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
-                                    <textPath xlink:href="#animated_text">Welcome to my github profile.</textPath>
-                                </text>
-                            </g>
+                        </g>
+                        <g>
+                            <path id="animated_text">
+                                <animate attributeName="d" from="m74,48 h0" to="m74,48 h200" dur="5s" begin="1s" repeatCount="1"/>
+                            </path>
+                            <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
+                                <textPath xlink:href="#animated_text">Welcome to my github profile.</textPath>
+                            </text>
+                        </g>
+                        <g>
+                            <path id="animated_text2">
+                                <animate attributeName="d" from="m74,48 h200" to="m74,48 h200" dur="1s" begin="6s" repeatCount="indefinite"/>
+                            </path>
+                            <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
+                                <textPath xlink:href="#animated_text2">Welcome to my github profile.</textPath>
+                            </text>
+                        </g>
+
                         <g id="AppBar">
                             <path d="M254.159,30.416L254.107,33.773L56.763,33.773L56.679,30.416"/>
                             <circle cx="71.395" cy="32.052" r="0.935" style="fill:#ff6059;"/>
