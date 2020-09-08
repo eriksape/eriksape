@@ -94,7 +94,7 @@
                         </g>
                         <g>
                             <path id="animated_text">
-                                <animate attributeName="d" from="m74,48 h0" to="m74,48 h200" dur="5s" begin="2s" repeatCount="1"/>
+                                <animate attributeName="d" from="m74,48 h0" to="m74,48 h95" dur="5s" begin="2s" repeatCount="1"/>
                             </path>
                             <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
                                 <textPath xlink:href="#animated_text">Welcome to my github profile.</textPath>
@@ -107,6 +107,17 @@
                             <text font-size="7" font-family="sans-serif" fill='hsla(0, 0%, 100%, 1)'>
                                 <textPath xlink:href="#animated_text2">Welcome to my github profile.</textPath>
                             </text>
+                        </g>
+                        <g id="start_blink">
+                                    <path d="M167,48L168,48L168,42L167,42Z" fill="#506062">
+                                    <animate
+                                        attributeType="XML"
+                                        attributeName="fill"
+                                        values="#fefefe;#506062"
+                                        dur="0.5s"
+                                        begin="7s"
+                                        repeatCount="indefinite"/>
+                                    </path>
                         </g>
 
                         <g id="AppBar">
