@@ -1,3 +1,3 @@
-![Macbook @eriksape](https://raw.githubusercontent.com/eriksape/eriksape/0253b7bc3f4b30a86abbb779e05ffcfac114317a/.github/assets/computer.svg)
+![Macbook @eriksape](https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg)
 
 - 🔭 I’m currently working on this
