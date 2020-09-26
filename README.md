@@ -18,7 +18,7 @@ Hi, I'm a Full Stack Developer 🚀 from Mexico. Beside's programming, I enjoy e
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on IoT cool projects :wink:;
+- 👨🏽‍💻 I’m currently working on IoT cool stuff :wink:;
 - 🌱 I’m currently learning Kubernetes; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@eriksape](https://twitter.com/eriksape);
