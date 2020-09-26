@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eriksape)
 
 
-Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I enjoy eating food and taking photos.
+Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I enjoy playing videogames 🎮 and taking photos📸.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
   
