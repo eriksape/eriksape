@@ -31,7 +31,7 @@ jobs:
         KEY_ID: ${{ secrets.KEY_ID }}
         KEY_SECRET: ${{ secrets.KEY_SECRET }}
       run: |-
-        python build_readme.py
+        python main.py
         cat README.md
     - name: Commit and push if changed
       run: |-
