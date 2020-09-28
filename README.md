@@ -14,7 +14,16 @@
 
 Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I enjoy playing 🎮 videogames and taking 📸 photos.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
+<table align="right">
+  <tr><td style="border:0!important;">
+    <img align alt="SVG-animated" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
+    </td></tr>
+  <tr><td style="border:0!important;">
+    This image is an Animated SVG here is the <a href="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg">source</a>
+    </td></tr>
+</table>
+
+
   
 **Talking about Personal Stuffs:**
 
@@ -46,3 +55,8 @@ Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I
 
 </details>
 
+<!-- art starts -->
+![mondrian_0](https://s3.amazonaws.com/bot.github/332adde5-2e30-44d1-ae33-5ce8b872b98a.svg)
+![mondrian_1](https://s3.amazonaws.com/bot.github/a1d4606c-8167-40fc-a958-09254ddcddca.svg)
+![mondrian_2](https://s3.amazonaws.com/bot.github/9cac3fbc-aec4-40f9-8b20-cd510bc0db6d.svg)
+<!-- art ends -->
