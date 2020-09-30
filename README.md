@@ -16,7 +16,7 @@ Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I
 
 <table align="right">
   <tr><td style="border:0!important;">
-    <img align alt="SVG-animated" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
+    <img align alt="SVG-animated" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="400" height="256" />
     </td></tr>
   <tr><td style="border:0!important;">
     This image is an Animated SVG here is the <a href="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg">source</a>
