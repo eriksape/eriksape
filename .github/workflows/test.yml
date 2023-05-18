@@ -15,4 +15,4 @@ jobs:
     if: ${{ inputs.perform_deploy }}
     steps:
       - name: Deploy build to target
-        run: echo "${{ name }}"
+        run: echo "$name"
