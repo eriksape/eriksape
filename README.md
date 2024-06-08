@@ -58,7 +58,7 @@ Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽🌮. Beside's programmin
 
 - Auto-generated every hour Mondrian squares with Github Actions.
 <!-- art starts -->
-![mondrian_0](https://s3.amazonaws.com/bot.github/0620eef4-ea08-4735-b767-b1f4b39e0c2b.svg)
-![mondrian_1](https://s3.amazonaws.com/bot.github/552d4758-7430-4f6c-b27b-bc71f2cba0ef.svg)
-![mondrian_2](https://s3.amazonaws.com/bot.github/1ce04f33-9ed4-47b9-91d2-613ff626776b.svg)
+![mondrian_0](https://s3.amazonaws.com/bot.github/1538d651-7fde-40ee-b371-c6f82df97cd8.svg)
+![mondrian_1](https://s3.amazonaws.com/bot.github/3752f434-cfa8-433b-9da0-67bc2e6af77b.svg)
+![mondrian_2](https://s3.amazonaws.com/bot.github/218f6c8d-76f7-4273-b665-2f4b51644488.svg)
 <!-- art ends -->
